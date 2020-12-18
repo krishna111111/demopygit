@@ -1,6 +1,6 @@
 
 
-welcome to telusko kitchen
+print("welcome to telusko kitchen")
 
 kheer
 pasta
@@ -8,7 +8,7 @@ chicken fry
 
 beans
 pizza
-
+burgers are costly once upon a time
 
 thank you
 
